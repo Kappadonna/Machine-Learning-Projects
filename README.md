@@ -1,6 +1,6 @@
 # 🤖 Machine Learning Projects
 
-Una raccolta di progetti personali di **Machine Learning supervisionato e non supervisionato**, sviluppati interamente a mano — senza l'ausilio di AI generativa per la scrittura del codice.
+Una raccolta di progetti personali di **Machine Learning supervisionato e non supervisionato**, sviluppati interamente a mano, senza l'ausilio di AI generativa per la scrittura del codice.
 
 ---
 
